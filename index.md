@@ -1,6 +1,6 @@
 # Introduction
 
-My name is Chavi, and I am currently pursuing a Master’s degree in Analytics and Applied Statistics until June 2020.\
+My name is Chavi, and I am currently pursuing a Master’s degree in Analytics and Applied Statistics until June 2020.
 I leveraged data and statistical concepts to analyze areas of improvement, root cause issues, test hypotheses, and identify optimal solutions.
 
 # About This Page
